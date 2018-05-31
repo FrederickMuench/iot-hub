@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Quickstarts/back-end-application/back-end-application.iml" filepath="$PROJECT_DIR$/Quickstarts/back-end-application/back-end-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iot-hub.iml" filepath="$PROJECT_DIR$/.idea/iot-hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quickstarts/quickstarts.iml" filepath="$PROJECT_DIR$/Quickstarts/quickstarts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quickstarts/read-d2c-messages/read-d2c-messages.iml" filepath="$PROJECT_DIR$/Quickstarts/read-d2c-messages/read-d2c-messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quickstarts/simulated-device/simulated-device.iml" filepath="$PROJECT_DIR$/Quickstarts/simulated-device/simulated-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quickstarts/simulated-device-2/simulated-device-2.iml" filepath="$PROJECT_DIR$/Quickstarts/simulated-device-2/simulated-device-2.iml" />
+    </modules>
+  </component>
+</project>
